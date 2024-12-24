@@ -1,3 +1,3 @@
 # The Wild Oasis
 
-First project in react
+First project in react+vite
